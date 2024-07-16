@@ -1,4 +1,4 @@
-# Reg Home Assignment for Nomura
+# Reg Home Assignment
 
 ## **Problem**
 
